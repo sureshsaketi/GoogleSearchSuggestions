@@ -1,0 +1,16 @@
+/* Write your CSS here */
+li {
+  padding-left: 10px;
+  padding-right: 10px;
+  list-style: none;
+  padding-right: 10px;
+  color: #64748b;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.arrow {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
